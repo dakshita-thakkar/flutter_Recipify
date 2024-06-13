@@ -1,16 +1,16 @@
-# meals_app
+# Recipify
 
-A new Flutter project.
+Flutter project created in Dart programming Language
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![categories screen](https://github.com/dakshita-thakkar/flutter_Recipify/assets/133591416/2bcc6338-2244-4fa0-a4ba-4373bf82bdb6)
 
-A few resources to get you started if this is your first Flutter project:
+![main_drawer widget](https://github.com/dakshita-thakkar/flutter_Recipify/assets/133591416/975defae-0467-4fb3-a37e-d42d78f155df)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![meals screen](https://github.com/dakshita-thakkar/flutter_Recipify/assets/133591416/7a647245-9969-469b-bb2e-1c9b1e675663)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![meal details screen](https://github.com/dakshita-thakkar/flutter_Recipify/assets/133591416/975a2083-2941-4b9a-85dd-bda9cc0d39b1)
+
+![filters screen](https://github.com/dakshita-thakkar/flutter_Recipify/assets/133591416/9c4d2f89-99bd-4da5-b211-2467b0536766)
+
+![favorites screen](https://github.com/dakshita-thakkar/flutter_Recipify/assets/133591416/3663acca-0db3-40f5-8628-a63804f49549)
